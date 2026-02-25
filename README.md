@@ -32,15 +32,15 @@ from linearmodels.iv import IVGMM
 ### Random Intercept Cross-lagged Panel Model (RI-CLPM)
 
 model_desc = """
-# Random intercepts
+Random intercepts
 RI_GDP =~ 1*GDP
 RI_brewery_count =~ 1*brewery_count
 
-# Cross-lagged effects
+Cross-lagged effects
 GDP ~ a*brewery_count + b*GDP_lag + c*Household_Income
 brewery_count ~ d*GDP + e*GDP_lag + f*Household_Income
 
-# Covariances between residuals
+Covariances between residuals
 GDP ~~ brewery_count
 """
 
@@ -56,19 +56,19 @@ log_GDP ~ a*log_GDP_lag +
 
 ### Arellano-Bond Difference Generalized Method of Moments (GMM)
 
-# Set multi-index (required for panel GMM) and sorting data
+Set multi-index (required for panel GMM) and sorting data
 merged_data_mi = merged_data.set_index(["State", "Year"])
 merged_data_mi = merged_data_mi.sort_index()
 
-# Getting lag 2 for dependent variable
+Getting lag 2 for dependent variable
 merged_data_mi["log_GDP_lag2"] = (
     merged_data_mi.groupby(level=0)["log_GDP"].shift(2)
 )
 
-# Getting First Difference
+Getting First Difference
 data_diff = merged_data_mi.groupby(level=0).diff()
 
-# Combining differenced variables with instrument in one dataframe
+Combining differenced variables with instrument in one dataframe
 gmm_data = pd.concat([
     data_diff["log_GDP"],
     data_diff["log_GDP_lag"],
@@ -81,25 +81,25 @@ gmm_data = pd.concat([
     merged_data_mi["log_GDP_lag2"]
 ], axis=1).dropna()
 
-# Removing columns with no variation (fixes rank issue)
+Removing columns with no variation (fixes rank issue)
 gmm_data = gmm_data.loc[:, gmm_data.std() > 0]
 
-# Initializing Variables
-# Dependent variable
+Initializing Variables
+Dependent variable
 y = gmm_data["log_GDP"]
 
-# Endogenous regressor
+Endogenous regressor
 endog = gmm_data["log_GDP_lag"]
 
-# Exogenous variables (differences)
+Exogenous variables (differences)
 exog_vars = ["log_income", "brewery_count", "W_GDP_lag", "W_income_lag"]
 exog_vars = [v for v in exog_vars if v in gmm_data.columns]
 exog = gmm_data[exog_vars]
 
-# Aligning instrument to differenced dataframe
+Aligning instrument to differenced dataframe
 instruments = gmm_data["log_GDP_lag2"]
 
-# Estimating GMM Model
+Estimating GMM Model
 model = IVGMM(
     dependent=y,
     exog=exog,
