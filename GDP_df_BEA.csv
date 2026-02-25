@@ -1,0 +1,355 @@
+State,Year,GDP
+Alabama,2018,226263.8
+Alabama,2019,234798.2
+Alabama,2020,235859.0
+Alabama,2021,260325.0
+Alabama,2022,286873.3
+Alabama,2023,309543.8
+Alaska,2018,54762.0
+Alaska,2019,54549.6
+Alaska,2020,51861.7
+Alaska,2021,59363.0
+Alaska,2022,65682.5
+Alaska,2023,68232.7
+Arizona,2018,353671.0
+Arizona,2019,375376.7
+Arizona,2020,390503.2
+Arizona,2021,438136.0
+Arizona,2022,488722.2
+Arizona,2023,530105.0
+Arkansas,2018,129213.8
+Arkansas,2019,132625.8
+Arkansas,2020,136145.9
+Arkansas,2021,154261.8
+Arkansas,2022,167863.5
+Arkansas,2023,178114.8
+California,2018,2899530.9
+California,2019,3068629.7
+California,2020,3072927.6
+California,2021,3418256.1
+California,2022,3618289.7
+California,2023,3827007.3
+Colorado,2018,373923.1
+Colorado,2019,397843.6
+Colorado,2020,396981.1
+Colorado,2021,445781.3
+Colorado,2022,499197.4
+Colorado,2023,533268.6
+Connecticut,2018,280535.4
+Connecticut,2019,286451.9
+Connecticut,2020,278747.9
+Connecticut,2021,297366.0
+Connecticut,2022,321625.2
+Connecticut,2023,341851.8
+Delaware,2018,73376.0
+Delaware,2019,78710.5
+Delaware,2020,77757.2
+Delaware,2021,83554.7
+Delaware,2022,97030.4
+Delaware,2023,103332.5
+District of Columbia,2018,141240.2
+District of Columbia,2019,145071.4
+District of Columbia,2020,146854.6
+District of Columbia,2021,156581.3
+District of Columbia,2022,165106.2
+District of Columbia,2023,174250.7
+Florida,2018,1072085.6
+Florida,2019,1133718.0
+Florida,2020,1144653.2
+Florida,2021,1300807.8
+Florida,2022,1473688.1
+Florida,2023,1624642.3
+Georgia,2018,612803.4
+Georgia,2019,646695.8
+Georgia,2020,638488.3
+Georgia,2021,706004.6
+Georgia,2022,785922.7
+Georgia,2023,835755.3
+Hawaii,2018,90933.5
+Hawaii,2019,93240.2
+Hawaii,2020,84788.0
+Hawaii,2021,93684.2
+Hawaii,2022,103954.5
+Hawaii,2023,111740.2
+Idaho,2018,79072.4
+Idaho,2019,84429.4
+Idaho,2020,88056.8
+Idaho,2021,99884.1
+Idaho,2022,112609.7
+Idaho,2023,120588.1
+Illinois,2018,871024.2
+Illinois,2019,895601.8
+Illinois,2020,860807.8
+Illinois,2021,947223.9
+Illinois,2022,1037735.9
+Illinois,2023,1100794.1
+Indiana,2018,377376.9
+Indiana,2019,384838.7
+Indiana,2020,378293.0
+Indiana,2021,425270.9
+Indiana,2022,467679.6
+Indiana,2023,496849.5
+Iowa,2018,193155.1
+Iowa,2019,196262.5
+Iowa,2020,199449.6
+Iowa,2021,225055.3
+Iowa,2022,244156.8
+Iowa,2023,253166.5
+Kansas,2018,173373.0
+Kansas,2019,176068.8
+Kansas,2020,175385.6
+Kansas,2021,188993.3
+Kansas,2022,213368.8
+Kansas,2023,224851.3
+Kentucky,2018,210509.1
+Kentucky,2019,220678.8
+Kentucky,2020,218948.6
+Kentucky,2021,238693.7
+Kentucky,2022,262586.6
+Kentucky,2023,283267.7
+Louisiana,2018,256444.4
+Louisiana,2019,257499.0
+Louisiana,2020,233652.0
+Louisiana,2021,273063.3
+Louisiana,2022,304299.3
+Louisiana,2023,318044.3
+Maine,2018,66216.0
+Maine,2019,69708.7
+Maine,2020,72309.7
+Maine,2021,79407.6
+Maine,2022,86310.6
+Maine,2023,93743.8
+Maryland,2018,410771.8
+Maryland,2019,419391.6
+Maryland,2020,413804.5
+Maryland,2021,447714.3
+Maryland,2022,481861.4
+Maryland,2023,515035.9
+Massachusetts,2018,559605.0
+Massachusetts,2019,588069.5
+Massachusetts,2020,592855.5
+Massachusetts,2021,650308.8
+Massachusetts,2022,696323.1
+Massachusetts,2023,737867.4
+Michigan,2018,525240.8
+Michigan,2019,540237.3
+Michigan,2020,530161.3
+Michigan,2021,573329.4
+Michigan,2022,624173.2
+Michigan,2023,676030.8
+Minnesota,2018,372439.2
+Minnesota,2019,384850.2
+Minnesota,2020,378969.4
+Minnesota,2021,416141.9
+Minnesota,2022,457393.8
+Minnesota,2023,483222.0
+Mississippi,2018,113166.4
+Mississippi,2019,116135.7
+Mississippi,2020,117441.6
+Mississippi,2021,130404.6
+Mississippi,2022,141724.2
+Mississippi,2023,151511.9
+Missouri,2018,320451.6
+Missouri,2019,334750.2
+Missouri,2020,335970.8
+Missouri,2021,366193.1
+Missouri,2022,397536.9
+Missouri,2023,428887.3
+Montana,2018,51152.1
+Montana,2019,52715.6
+Montana,2020,53057.3
+Montana,2021,60314.8
+Montana,2022,69087.8
+Montana,2023,74690.3
+Nebraska,2018,127954.4
+Nebraska,2019,132848.2
+Nebraska,2020,135014.5
+Nebraska,2021,150952.5
+Nebraska,2022,167840.2
+Nebraska,2023,183780.9
+Nevada,2018,172547.9
+Nevada,2019,184611.1
+Nevada,2020,176178.7
+Nevada,2021,202091.8
+Nevada,2022,232437.9
+Nevada,2023,253443.3
+New Hampshire,2018,83859.4
+New Hampshire,2019,87868.2
+New Hampshire,2020,89041.6
+New Hampshire,2021,99433.3
+New Hampshire,2022,106824.6
+New Hampshire,2023,114427.8
+New Jersey,2018,619340.2
+New Jersey,2019,643317.7
+New Jersey,2020,632562.3
+New Jersey,2021,693733.8
+New Jersey,2022,756465.6
+New Jersey,2023,806894.0
+New Mexico,2018,98838.2
+New Mexico,2019,103821.0
+New Mexico,2020,101035.5
+New Mexico,2021,113781.7
+New Mexico,2022,129469.1
+New Mexico,2023,138526.0
+New York,2018,1710665.6
+New York,2019,1787470.9
+New York,2020,1782502.4
+New York,2021,1934524.0
+New York,2022,2071075.2
+New York,2023,2182549.0
+North Carolina,2018,568037.3
+North Carolina,2019,592449.6
+North Carolina,2020,600226.9
+North Carolina,2021,660804.7
+North Carolina,2022,729761.9
+North Carolina,2023,794838.0
+North Dakota,2018,60377.1
+North Dakota,2019,60892.5
+North Dakota,2020,56321.4
+North Dakota,2021,64830.0
+North Dakota,2022,75052.1
+North Dakota,2023,77898.1
+Ohio,2018,672540.1
+Ohio,2019,702914.8
+Ohio,2020,692938.3
+Ohio,2021,764161.4
+Ohio,2022,830498.8
+Ohio,2023,883957.1
+Oklahoma,2018,204193.9
+Oklahoma,2019,205992.7
+Oklahoma,2020,192222.0
+Oklahoma,2021,219132.4
+Oklahoma,2022,247541.5
+Oklahoma,2023,255933.2
+Oregon,2018,238466.9
+Oregon,2019,248781.8
+Oregon,2020,250660.6
+Oregon,2021,276367.7
+Oregon,2022,297084.3
+Oregon,2023,314895.0
+Pennsylvania,2018,780620.7
+Pennsylvania,2019,802233.1
+Pennsylvania,2020,778297.2
+Pennsylvania,2021,844875.5
+Pennsylvania,2022,916861.7
+Pennsylvania,2023,966444.0
+Rhode Island,2018,60064.9
+Rhode Island,2019,62814.7
+Rhode Island,2020,61980.9
+Rhode Island,2021,67060.0
+Rhode Island,2022,71978.2
+Rhode Island,2023,76313.5
+South Carolina,2018,236561.7
+South Carolina,2019,249575.7
+South Carolina,2020,248952.7
+South Carolina,2021,272464.9
+South Carolina,2022,305070.0
+South Carolina,2023,332946.8
+South Dakota,2018,53349.5
+South Dakota,2019,55175.8
+South Dakota,2020,56847.3
+South Dakota,2021,63337.7
+South Dakota,2022,69425.6
+South Dakota,2023,74458.8
+Tennessee,2018,369713.2
+Tennessee,2019,385833.0
+Tennessee,2020,391588.6
+Tennessee,2021,443419.7
+Tennessee,2022,490587.0
+Tennessee,2023,531246.8
+Texas,2018,1808026.9
+Texas,2019,1864872.3
+Texas,2020,1810670.2
+Texas,2021,2117013.7
+Texas,2022,2476903.2
+Texas,2023,2637237.6
+Utah,2018,186805.7
+Utah,2019,201312.2
+Utah,2020,206240.5
+Utah,2021,233320.9
+Utah,2022,261548.5
+Utah,2023,283230.8
+Vermont,2018,33482.6
+Vermont,2019,34760.3
+Vermont,2020,34572.3
+Vermont,2021,37290.8
+Vermont,2022,41211.2
+Vermont,2023,43931.6
+Virginia,2018,537158.3
+Virginia,2019,561701.8
+Virginia,2020,566101.5
+Virginia,2021,616187.9
+Virginia,2022,665624.7
+Virginia,2023,722767.4
+Washington,2018,570337.8
+Washington,2019,608643.4
+Washington,2020,617739.1
+Washington,2021,683367.0
+Washington,2022,741002.8
+Washington,2023,801455.5
+West Virginia,2018,79794.3
+West Virginia,2019,80242.4
+West Virginia,2020,77536.5
+West Virginia,2021,87178.8
+West Virginia,2022,98824.1
+West Virginia,2023,101479.9
+Wisconsin,2018,335144.3
+Wisconsin,2019,346906.6
+Wisconsin,2020,344691.0
+Wisconsin,2021,368997.3
+Wisconsin,2022,403570.3
+Wisconsin,2023,431913.9
+Wyoming,2018,39614.5
+Wyoming,2019,40029.5
+Wyoming,2020,36982.7
+Wyoming,2021,42410.6
+Wyoming,2022,49570.4
+Wyoming,2023,51350.1
+New England,2018,1083763.3
+New England,2019,1129673.3
+New England,2020,1129507.8
+New England,2021,1230866.5
+New England,2022,1324272.9
+New England,2023,1408135.9
+Mideast,2018,3736014.5
+Mideast,2019,3876195.2
+Mideast,2020,3831778.2
+Mideast,2021,4160983.6
+Mideast,2022,4488400.5
+Mideast,2023,4748506.1
+Great Lakes,2018,2781326.3
+Great Lakes,2019,2870499.2
+Great Lakes,2020,2806891.4
+Great Lakes,2021,3078983.0
+Great Lakes,2022,3363657.8
+Great Lakes,2023,3589545.5
+Plains,2018,1301100.0
+Plains,2019,1340848.0
+Plains,2020,1337958.6
+Plains,2021,1475503.8
+Plains,2022,1624774.2
+Plains,2023,1726264.9
+Southeast,2018,4411751.3
+Southeast,2019,4611953.7
+Southeast,2020,4609594.9
+Southeast,2021,5143616.9
+Southeast,2022,5712825.3
+Southeast,2023,6184158.9
+Southwest,2018,2464730.0
+Southwest,2019,2550062.7
+Southwest,2020,2494430.9
+Southwest,2021,2888063.9
+Southwest,2022,3342636.0
+Southwest,2023,3561801.9
+Rocky Mountain,2018,730567.7
+Rocky Mountain,2019,776330.2
+Rocky Mountain,2020,781318.5
+Rocky Mountain,2021,881711.7
+Rocky Mountain,2022,992013.8
+Rocky Mountain,2023,1063127.8
+Far West,2018,4026579.0
+Far West,2019,4258455.7
+Far West,2020,4254155.7
+Far West,2021,4733129.8
+Far West,2022,5058451.6
+Far West,2023,5376774.0
