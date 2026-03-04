@@ -22,6 +22,7 @@ The following three models were implemented by the code:
 
 ## Prerequisites
 
+```Python
 import pandas as pd
 import numpy as np
 import requests
@@ -32,6 +33,7 @@ from semopy import Model
 from libpysal.weights import Queen
 from libpysal.weights import lag_spatial
 from linearmodels.iv import IVGMM
+```
 
 ## Implementation 
 
